@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danielcoboreinoso.github.io/tecno-serprofes/sitemap.xml
+
